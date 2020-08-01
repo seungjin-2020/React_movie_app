@@ -2,7 +2,8 @@ import React from "react";
 
 class App extends React.Component{
   state = {
-    islLoading: true
+    islLoading: true,
+    movies: []
   };
 
   componentDidMount() {
