@@ -1,4 +1,6 @@
 /*
+//import PropTypes from "prop-types";
+
 constructor(props) {
     super(props);
     console.log("hello");
